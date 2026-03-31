@@ -45,5 +45,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 * 📍 Phnom Penh, Cambodia
 * 📧 [vath7677@gmail.com]
 
----
-![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/languages.svg)
+---## 📫 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vath7677@gmail.com)
+![Location](https://img.shields.io/badge/Location-Phnom%20Penh%2C%20Cambodia-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
