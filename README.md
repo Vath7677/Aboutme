@@ -1,11 +1,49 @@
-# celsaralvrz
+# Hi there! I'm Vath 
 
+I am a **Computer Science student** at the **Royal University of Phnom Penh (RUPP)**. I have a background in **IT Support** and I'm currently pivoting towards **Data Science** and **Software Development**.
 
+---
 
+###  Certifications & Education
+* **Google Data Analytics Professional Certificate** (In Progress)
+  * Completed: *Foundations: Data, Data, Everywhere* with a grade of **98%**.
+* **Bachelor of Computer Science** | RUPP (Year 1)
+* Completed Foundations of **Cybersecurity** and **Networking**.
 
+###  Professional Experience
+* **IT Support** (2 Months)
+  * Provided technical assistance, troubleshooting hardware/software, and maintained network connectivity.
 
-### GitHub States
+###  Technical Skills & Tools
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=celsaralvrz&theme=darcula)](https://git.io/streak-stats)
+####  Data Science (Main Focus)
+* **Tools:** Jupyter Notebook, Python (NumPy, Pandas, Matplotlib and seaborn).
+* **Projects:** Data Cleaning, EDA, Data Manipulation & Transformation.
+* **Goal:** To become a professional Data Analyst/Scientist, ML and Deep learning.
 
+####  Cybersecurity & Networking
+* **Knowledge:** Network Foundations, Operating System Security.
+* **Tools:** Familiar with Kali Linux.
+
+####  Software Development
+* **Languages:** Learning **Kotlin** for modern app development.
+* **Operating System:** Beginner user of **Ubuntu Linux** 
+
+---
+
+###  Featured Data Projects
+*  **[Python-project](https://github.com/Vath7677/Python-project)**: General Python scripting and logic.
+*  **[Pandas-project](https://github.com/Vath7677/Pandas-project)**: Data analysis using the Pandas library.
+*  **[Numpy-project](https://github.com/Vath7677/Numpy-project)**: Array processing and mathematical manipulation.
+*  **[Data-Cleaning](https://github.com/Vath7677/Data-Cleaning)**: Automated data preparation and cleaning workflows.
+*  **[EDA-visualization](https://github.com/Vath7677/EDA-visualization)**: Insights through Exploratory Data Analysis.
+*  **[Data-Manipulation-Transformation](https://github.com/Vath7677/Data-Manipulation-Transformation)**: Reshaping and transforming complex datasets.
+
+---
+
+###  Contact Me
+* 📍 Phnom Penh, Cambodia
+* 📧 [vath7677@gmail.com]
+
+---
 ![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/languages.svg)
