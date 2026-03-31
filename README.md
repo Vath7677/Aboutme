@@ -16,7 +16,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ###  Technical Skills & Tools
 
-####  Data Science (Main Focus)
+####  Data Science/AI/ML (Main Focus)
 * **Tools:** Jupyter Notebook, Python (NumPy, Pandas, Matplotlib and seaborn).
 * **Projects:** Data Cleaning, EDA, Data Manipulation & Transformation.
 * **Goal:** To become a professional Data Analyst/Scientist, ML and Deep learning.
