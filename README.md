@@ -1,6 +1,6 @@
 # Hi there! I'm Vath 
 
-I am a **Computer Science student** at the **Royal University of Phnom Penh (RUPP)**. I have a background in **IT Support** and I'm currently pivoting towards **Data Science** and **Software Development**.
+I am a **Computer Science student** at the **Royal University of Phnom Penh (RUPP)**. I have a background in **IT Support** and I'm currently pivoting towards **Data Science** **AI/ML** And **Software Development**.
 
 ---
 
@@ -27,7 +27,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ####  Software Development
 * **Languages:** Learning **Kotlin** for modern app development.
-* **Operating System:** Beginner user of **Ubuntu Linux** 
+* **Operating System:** Beginner user of **Ubuntu** 
 
 ---
 
